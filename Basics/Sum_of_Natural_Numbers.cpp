@@ -34,3 +34,4 @@ Auxiliary Space: O(1)
 Key Learning:
 A loop can calculate the sum of consecutive natural numbers
 by accumulating each value in a varia
+*/
